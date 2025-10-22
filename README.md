@@ -20,9 +20,6 @@ No API Key Required: Uses free Open-Meteo API
 
 Clean UI: Modern, intuitive interface with weather emojis
 
-🚀 Live Demo
-[Add your live demo link here]
-
 📸 Screenshots
 https://screenshot.png
 
