@@ -4,8 +4,6 @@ A clean, responsive weather application that provides current weather conditions
 
 JavaScript and the Open-Meteo API.
 
-https://screenshot.png
-
  Features
  
  Current Weather Data - Temperature, humidity, wind speed, pressure, and "feels like" temperature
